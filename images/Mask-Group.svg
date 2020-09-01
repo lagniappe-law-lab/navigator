@@ -1,0 +1,20 @@
+<svg width="921" height="1598" viewBox="0 0 921 1598" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="921" height="1598">
+<rect width="921" height="1598" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask0)">
+<rect y="1925" width="1853" height="921" rx="100" transform="rotate(-90 0 1925)" fill="#F2F4F8"/>
+<rect x="20" y="1906" width="1716" height="881" rx="80" transform="rotate(-90 20 1906)" fill="white"/>
+<rect x="360" y="120" width="200" height="20" rx="10" fill="white"/>
+<rect x="588" y="120" width="20" height="20" rx="10" fill="white"/>
+<rect x="61" y="1358" width="700" height="102" rx="15" fill="#F2F4F8"/>
+<rect x="159" y="1514" width="700" height="102" rx="15" fill="#F2F4F8"/>
+<rect x="63.5" y="1064.5" width="195" height="195" rx="37.5" fill="white" stroke="#F2F4F8" stroke-width="5"/>
+<rect x="661.5" y="1064.5" width="195" height="195" rx="37.5" fill="white" stroke="#F2F4F8" stroke-width="5"/>
+<rect x="362.5" y="1064.5" width="195" height="195" rx="37.5" fill="white" stroke="#F2F4F8" stroke-width="5"/>
+<rect x="61" y="307" width="314" height="20" rx="10" fill="#565F73" fill-opacity="0.2"/>
+<rect x="61" y="375" width="450" height="20" rx="10" fill="#565F73" fill-opacity="0.2"/>
+<rect x="771" y="307" width="88" height="88" rx="15" fill="#565F73" fill-opacity="0.2"/>
+<rect x="61" y="507" width="798" height="501" rx="50" fill="#F2F4F8"/>
+</g>
+</svg>
